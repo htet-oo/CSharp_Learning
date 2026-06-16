@@ -1,0 +1,14 @@
+C:\algorithm\Renshu_6_1\Renshu_6_1\bin\Debug\net8.0\Renshu_6_1.exe
+C:\algorithm\Renshu_6_1\Renshu_6_1\bin\Debug\net8.0\Renshu_6_1.deps.json
+C:\algorithm\Renshu_6_1\Renshu_6_1\bin\Debug\net8.0\Renshu_6_1.runtimeconfig.json
+C:\algorithm\Renshu_6_1\Renshu_6_1\bin\Debug\net8.0\Renshu_6_1.dll
+C:\algorithm\Renshu_6_1\Renshu_6_1\bin\Debug\net8.0\Renshu_6_1.pdb
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.AssemblyInfoInputs.cache
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.AssemblyInfo.cs
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.csproj.CoreCompileInputs.cache
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.dll
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\refint\Renshu_6_1.dll
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.pdb
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\Renshu_6_1.genruntimeconfig.cache
+C:\algorithm\Renshu_6_1\Renshu_6_1\obj\Debug\net8.0\ref\Renshu_6_1.dll

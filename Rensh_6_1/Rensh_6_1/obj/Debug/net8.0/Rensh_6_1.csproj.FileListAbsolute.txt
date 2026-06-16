@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\bin\Debug\net8.0\Rensh_6_1.exe
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\bin\Debug\net8.0\Rensh_6_1.deps.json
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\bin\Debug\net8.0\Rensh_6_1.runtimeconfig.json
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\bin\Debug\net8.0\Rensh_6_1.dll
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\bin\Debug\net8.0\Rensh_6_1.pdb
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.dll
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\refint\Rensh_6_1.dll
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.pdb
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\Rensh_6_1.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\Rensh_6_1\Rensh_6_1\obj\Debug\net8.0\ref\Rensh_6_1.dll

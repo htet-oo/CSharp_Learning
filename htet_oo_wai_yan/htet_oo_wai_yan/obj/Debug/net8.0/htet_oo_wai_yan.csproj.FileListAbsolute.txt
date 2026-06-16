@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\bin\Debug\net8.0\htet_oo_wai_yan.exe
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\bin\Debug\net8.0\htet_oo_wai_yan.deps.json
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\bin\Debug\net8.0\htet_oo_wai_yan.runtimeconfig.json
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\bin\Debug\net8.0\htet_oo_wai_yan.dll
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\bin\Debug\net8.0\htet_oo_wai_yan.pdb
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.dll
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\refint\htet_oo_wai_yan.dll
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.pdb
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\htet_oo_wai_yan.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\htet_oo_wai_yan\htet_oo_wai_yan\obj\Debug\net8.0\ref\htet_oo_wai_yan.dll

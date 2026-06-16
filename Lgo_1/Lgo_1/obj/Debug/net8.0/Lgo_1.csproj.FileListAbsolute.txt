@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\bin\Debug\net8.0\Lgo_1.exe
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\bin\Debug\net8.0\Lgo_1.deps.json
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\bin\Debug\net8.0\Lgo_1.runtimeconfig.json
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\bin\Debug\net8.0\Lgo_1.dll
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\bin\Debug\net8.0\Lgo_1.pdb
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.dll
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\refint\Lgo_1.dll
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.pdb
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\Lgo_1.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\Lgo_1\Lgo_1\obj\Debug\net8.0\ref\Lgo_1.dll

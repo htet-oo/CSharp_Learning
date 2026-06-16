@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\bin\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.exe
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\bin\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.deps.json
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\bin\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.runtimeconfig.json
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\bin\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.dll
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\bin\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.pdb
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.dll
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\refint\1C30JT_WaiYan_kadai_2_1.dll
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.pdb
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\1C30JT_WaiYan_kadai_2_1.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\1C30JT_WaiYan_kadai_2_1\1C30JT_WaiYan_kadai_2_1\obj\Debug\net8.0\ref\1C30JT_WaiYan_kadai_2_1.dll

@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\bin\Debug\net8.0\DateEcho.exe
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\bin\Debug\net8.0\DateEcho.deps.json
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\bin\Debug\net8.0\DateEcho.runtimeconfig.json
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\bin\Debug\net8.0\DateEcho.dll
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\bin\Debug\net8.0\DateEcho.pdb
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.dll
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\refint\DateEcho.dll
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.pdb
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\DateEcho.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\DateEcho\DateEcho\obj\Debug\net8.0\ref\DateEcho.dll

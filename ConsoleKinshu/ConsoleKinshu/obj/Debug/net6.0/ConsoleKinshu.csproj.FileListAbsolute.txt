@@ -1,0 +1,14 @@
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\bin\Debug\net6.0\ConsoleKinshu.exe
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\bin\Debug\net6.0\ConsoleKinshu.deps.json
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\bin\Debug\net6.0\ConsoleKinshu.runtimeconfig.json
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\bin\Debug\net6.0\ConsoleKinshu.dll
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\bin\Debug\net6.0\ConsoleKinshu.pdb
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.AssemblyInfoInputs.cache
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.AssemblyInfo.cs
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.dll
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\refint\ConsoleKinshu.dll
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.pdb
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ConsoleKinshu.genruntimeconfig.cache
+C:\Users\wwwht\Downloads\ConsoleKinshu\ConsoleKinshu\obj\Debug\net6.0\ref\ConsoleKinshu.dll

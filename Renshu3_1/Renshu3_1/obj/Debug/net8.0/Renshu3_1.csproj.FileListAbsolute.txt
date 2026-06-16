@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\bin\Debug\net8.0\Renshu3_1.exe
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\bin\Debug\net8.0\Renshu3_1.deps.json
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\bin\Debug\net8.0\Renshu3_1.runtimeconfig.json
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\bin\Debug\net8.0\Renshu3_1.dll
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\bin\Debug\net8.0\Renshu3_1.pdb
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.dll
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\refint\Renshu3_1.dll
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.pdb
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\Renshu3_1.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\Renshu3_1\Renshu3_1\obj\Debug\net8.0\ref\Renshu3_1.dll

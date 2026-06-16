@@ -1,0 +1,14 @@
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\bin\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.exe
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\bin\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.deps.json
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\bin\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.runtimeconfig.json
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\bin\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.dll
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\bin\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.pdb
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.AssemblyInfoInputs.cache
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.AssemblyInfo.cs
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.csproj.CoreCompileInputs.cache
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.dll
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\refint\1C30JT_WaiYan_Kadai_5_1.dll
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.pdb
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\1C30JT_WaiYan_Kadai_5_1.genruntimeconfig.cache
+C:\algorithm\1C30JT_WaiYan_Kadai_5_1\1C30JT_WaiYan_Kadai_5_1\obj\Debug\net8.0\ref\1C30JT_WaiYan_Kadai_5_1.dll

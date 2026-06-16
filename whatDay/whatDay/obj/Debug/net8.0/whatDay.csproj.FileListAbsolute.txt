@@ -1,0 +1,14 @@
+C:\Users\wwwht\source\repos\whatDay\whatDay\bin\Debug\net8.0\whatDay.exe
+C:\Users\wwwht\source\repos\whatDay\whatDay\bin\Debug\net8.0\whatDay.deps.json
+C:\Users\wwwht\source\repos\whatDay\whatDay\bin\Debug\net8.0\whatDay.runtimeconfig.json
+C:\Users\wwwht\source\repos\whatDay\whatDay\bin\Debug\net8.0\whatDay.dll
+C:\Users\wwwht\source\repos\whatDay\whatDay\bin\Debug\net8.0\whatDay.pdb
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.dll
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\refint\whatDay.dll
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.pdb
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\whatDay.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\whatDay\whatDay\obj\Debug\net8.0\ref\whatDay.dll
