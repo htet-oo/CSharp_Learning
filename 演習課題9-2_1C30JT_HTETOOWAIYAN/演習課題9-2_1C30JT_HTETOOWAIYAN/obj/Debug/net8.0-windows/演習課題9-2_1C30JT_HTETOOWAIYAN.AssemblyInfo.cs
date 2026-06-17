@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("演習課題9-2_1C30JT_HTETOOWAIYAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49519eb7afddcb29ba72f2b141e69077f7765ec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("演習課題9-2_1C30JT_HTETOOWAIYAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("演習課題9-2_1C30JT_HTETOOWAIYAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
