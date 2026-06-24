@@ -4,23 +4,28 @@
         Title="MainWindow" Height="142" Width="484">
 
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="76*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <Grid Grid.Row="0" Margin="20" HorizontalAlignment="Center">
+        <Grid Grid.Row="0" Margin="125,20,0,20" HorizontalAlignment="Left" Grid.ColumnSpan="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
 
             <Label Content="名前" FontWeight="Bold" Grid.Column="0"/>
-            <TextBox Grid.Column="1" Width="200" Height="20" Background="LightGray" BorderThickness="2" HorizontalAlignment="Center"/>
+            <TextBox x:Name="txtGreetings" Grid.Column="1" Width="200" Height="20" Background="LightGray" BorderThickness="2" 
+                     HorizontalAlignment="Center"/>
         </Grid>
 
-        <Grid Grid.Row="1" VerticalAlignment="Bottom" Margin="0,0,0,15">
-            <Button Content="あいさつ" Width="80" Height="30"/>
+        <Grid Grid.Row="1" VerticalAlignment="Bottom" Margin="0,0,0,15" Grid.ColumnSpan="2">
+            <Button x:Name="btnGreetings" Content="Click Me" Width="80" Height="30" Click="Button_Click"/>
         </Grid>
     </Grid>
 </Window>

@@ -1,9 +1,0 @@
-﻿<Application x:Class="演習課題9_2_1C30JT_HTETOOWAIYAN.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:演習課題9_2_1C30JT_HTETOOWAIYAN"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-         
-    </Application.Resources>
-</Application>

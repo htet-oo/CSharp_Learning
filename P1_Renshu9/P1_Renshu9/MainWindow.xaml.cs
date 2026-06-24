@@ -20,5 +20,13 @@ namespace P1_Renshu9
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            btnGreetings.Content = "Suprise";
+            string name = txtGreetings.Text;
+            MessageBox.Show($"{name}さん、こんにちは！");
+
+        }
     }
 }
