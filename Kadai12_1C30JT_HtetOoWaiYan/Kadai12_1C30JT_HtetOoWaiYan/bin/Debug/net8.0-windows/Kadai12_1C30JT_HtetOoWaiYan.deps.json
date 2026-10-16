@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kadai12_1C30JT_HtetOoWaiYan/1.0.0": {
+        "runtime": {
+          "Kadai12_1C30JT_HtetOoWaiYan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kadai12_1C30JT_HtetOoWaiYan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

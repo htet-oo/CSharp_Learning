@@ -1,0 +1,15 @@
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\bin\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.exe
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\bin\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.deps.json
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\bin\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.runtimeconfig.json
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\bin\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.dll
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\bin\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.pdb
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.sourcelink.json
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.dll
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\refint\1C30JT_HtetOoWaiYan_kadai04.dll
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.pdb
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\1C30JT_HtetOoWaiYan_kadai04.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\1C30JT_HtetOoWaiYan_kadai04\1C30JT_HtetOoWaiYan_kadai04\obj\Debug\net8.0\ref\1C30JT_HtetOoWaiYan_kadai04.dll

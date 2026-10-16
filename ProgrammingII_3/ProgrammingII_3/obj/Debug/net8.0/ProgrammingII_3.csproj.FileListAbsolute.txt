@@ -1,0 +1,15 @@
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\bin\Debug\net8.0\ProgrammingII_3.exe
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\bin\Debug\net8.0\ProgrammingII_3.deps.json
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\bin\Debug\net8.0\ProgrammingII_3.runtimeconfig.json
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\bin\Debug\net8.0\ProgrammingII_3.dll
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\bin\Debug\net8.0\ProgrammingII_3.pdb
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.sourcelink.json
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.dll
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\refint\ProgrammingII_3.dll
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.pdb
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ProgrammingII_3.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\ProgrammingII_3\ProgrammingII_3\obj\Debug\net8.0\ref\ProgrammingII_3.dll

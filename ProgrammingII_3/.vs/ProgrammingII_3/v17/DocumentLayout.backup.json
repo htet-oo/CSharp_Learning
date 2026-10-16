@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwht\\source\\repos\\ProgrammingII_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B9E319-9E58-440B-9325-D5F0B0B60E64}|ProgrammingII_3\\ProgrammingII_3.csproj|c:\\users\\wwwht\\source\\repos\\programmingii_3\\programmingii_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B9E319-9E58-440B-9325-D5F0B0B60E64}|ProgrammingII_3\\ProgrammingII_3.csproj|solutionrelative:programmingii_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wwwht\\source\\repos\\ProgrammingII_3\\ProgrammingII_3\\Program.cs",
+              "RelativeDocumentMoniker": "ProgrammingII_3\\Program.cs",
+              "ToolTip": "C:\\Users\\wwwht\\source\\repos\\ProgrammingII_3\\ProgrammingII_3\\Program.cs",
+              "RelativeToolTip": "ProgrammingII_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T00:45:45.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

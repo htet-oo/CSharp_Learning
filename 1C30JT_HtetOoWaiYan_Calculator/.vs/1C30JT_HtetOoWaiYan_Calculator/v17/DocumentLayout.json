@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwht\\source\\repos\\1C30JT_HtetOoWaiYan_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B636CFA-2C87-4F0F-87BE-6E7491CF8EBC}|1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator.csproj|c:\\users\\wwwht\\source\\repos\\1c30jt_htetoowaiyan_calculator\\1c30jt_htetoowaiyan_calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B636CFA-2C87-4F0F-87BE-6E7491CF8EBC}|1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator.csproj|solutionrelative:1c30jt_htetoowaiyan_calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B636CFA-2C87-4F0F-87BE-6E7491CF8EBC}|1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator.csproj|c:\\users\\wwwht\\source\\repos\\1c30jt_htetoowaiyan_calculator\\1c30jt_htetoowaiyan_calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B636CFA-2C87-4F0F-87BE-6E7491CF8EBC}|1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator.csproj|solutionrelative:1c30jt_htetoowaiyan_calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwht\\source\\repos\\1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wwwht\\source\\repos\\1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml",
+              "RelativeToolTip": "1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-01T00:24:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wwwht\\source\\repos\\1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wwwht\\source\\repos\\1C30JT_HtetOoWaiYan_Calculator\\1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "1C30JT_HtetOoWaiYan_Calculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T00:24:13.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwht\\source\\repos\\ExamNo.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439E1F3B-9A2E-4177-B172-B8A530C15745}|ExamNo.1\\ExamNo.1.csproj|c:\\users\\wwwht\\source\\repos\\examno.1\\examno.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{439E1F3B-9A2E-4177-B172-B8A530C15745}|ExamNo.1\\ExamNo.1.csproj|solutionrelative:examno.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E1F3B-9A2E-4177-B172-B8A530C15745}|ExamNo.1\\ExamNo.1.csproj|c:\\users\\wwwht\\source\\repos\\examno.1\\examno.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E1F3B-9A2E-4177-B172-B8A530C15745}|ExamNo.1\\ExamNo.1.csproj|solutionrelative:examno.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwht\\source\\repos\\ExamNo.1\\ExamNo.1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamNo.1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wwwht\\source\\repos\\ExamNo.1\\ExamNo.1\\MainWindow.xaml",
+              "RelativeToolTip": "ExamNo.1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-28T00:31:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wwwht\\source\\repos\\ExamNo.1\\ExamNo.1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamNo.1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wwwht\\source\\repos\\ExamNo.1\\ExamNo.1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExamNo.1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:31:01.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

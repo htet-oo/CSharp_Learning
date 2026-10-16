@@ -12,3 +12,4 @@ C:\Users\wwwht\source\repos\my_renshu\my_renshu\obj\Debug\net8.0\refint\my_rensh
 C:\Users\wwwht\source\repos\my_renshu\my_renshu\obj\Debug\net8.0\my_renshu.pdb
 C:\Users\wwwht\source\repos\my_renshu\my_renshu\obj\Debug\net8.0\my_renshu.genruntimeconfig.cache
 C:\Users\wwwht\source\repos\my_renshu\my_renshu\obj\Debug\net8.0\ref\my_renshu.dll
+C:\Users\wwwht\source\repos\my_renshu\my_renshu\obj\Debug\net8.0\my_renshu.sourcelink.json

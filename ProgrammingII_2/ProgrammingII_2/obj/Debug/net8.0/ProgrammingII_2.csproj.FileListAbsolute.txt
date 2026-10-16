@@ -1,0 +1,15 @@
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\bin\Debug\net8.0\ProgrammingII_2.exe
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\bin\Debug\net8.0\ProgrammingII_2.deps.json
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\bin\Debug\net8.0\ProgrammingII_2.runtimeconfig.json
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\bin\Debug\net8.0\ProgrammingII_2.dll
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\bin\Debug\net8.0\ProgrammingII_2.pdb
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.AssemblyInfoInputs.cache
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.AssemblyInfo.cs
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.csproj.CoreCompileInputs.cache
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.sourcelink.json
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.dll
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\refint\ProgrammingII_2.dll
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.pdb
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ProgrammingII_2.genruntimeconfig.cache
+C:\Users\wwwht\source\repos\ProgrammingII_2\ProgrammingII_2\obj\Debug\net8.0\ref\ProgrammingII_2.dll
