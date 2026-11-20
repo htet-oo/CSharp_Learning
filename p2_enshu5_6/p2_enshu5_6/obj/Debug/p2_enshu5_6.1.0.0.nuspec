@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>p2_enshu5_6</id>
+    <version>1.0.0</version>
+    <authors>p2_enshu5_6</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="c5579566838ec3f454fefbdc6b60c17c6f4b02c5" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\wwwht\source\repos\p2_enshu5_6\p2_enshu5_6\bin\Debug\net9.0-windows\p2_enshu5_6.runtimeconfig.json" target="lib\net9.0-windows7.0\p2_enshu5_6.runtimeconfig.json" />
+    <file src="C:\Users\wwwht\source\repos\p2_enshu5_6\p2_enshu5_6\bin\Debug\net9.0-windows\p2_enshu5_6.dll" target="lib\net9.0-windows7.0\p2_enshu5_6.dll" />
+  </files>
+</package>
